@@ -15,6 +15,8 @@
         <module>cloud-eureka</module>
         <module>cloud-eureka02</module>
         <module>cloud-orders02</module>
+        <module>cloud-consul</module>
+        <module>cloud-consul-consumer</module>
     </modules>
 
     <properties>
